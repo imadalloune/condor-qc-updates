@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "versionCode": 1,
-  "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.0.1/app-release.apk",
-  "changelog": "✨ Version initiale\n- Interface Condor Electronics\n- Système d'inspection qualité\n- Scanner de codes-barres\n- Génération de rapports",
-  "mandatory": false,
-  "releaseDate": "2026-01-28",
-  "minVersion": "1.0.0"
+    "version": "1.0.1",
+    "versionCode": 1,
+    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.0.1/app-release-unsigned.apk",
+    "changelog": "✨ Version initiale\n- Interface Condor Electronics\n- Système d'inspection qualité\n- Scanner de codes-barres\n- Génération de rapports",
+    "mandatory": false,
+    "releaseDate": "2026-01-28",
+    "minVersion": "1.0.0"
 }
