@@ -1,0 +1,2 @@
+export const CURRENT_APP_VERSION_CODE = 10;
+export const CURRENT_APP_VERSION_NAME = "1.1.0";

@@ -1,0 +1,9 @@
+{
+    "version": "1.1.0",
+    "versionCode": 10,
+    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.0/app-debug.apk",
+    "changelog": "🎨 Version 1.1.0: Full Theme Experience\n- Le Header change maintenant de couleur selon le thème !\n- Tous les boutons et éléments s'adaptent automatiquement\n- Meilleure gestion des téléchargements de mise à jour\n- Correction des couleurs de progression et des icônes",
+    "mandatory": false,
+    "releaseDate": "2026-01-29",
+    "minVersion": "1.0.0"
+}
