@@ -1,12 +1,13 @@
 {
-    "version": "1.1.2",
-    "versionCode": 12,
+    "version": "1.1.3",
+    "versionCode": 13,
     "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.2/app-debug.apk",
-    "changelog": "✨ Version 1.1.1\n- Suppression popup Supabase\n- Nettoyage final",
+    "changelog": "✨ ✨ New RMA PQC Theme System (Paintbrush tool)",
     "mandatory": false,
     "releaseDate": "2026-01-30",
     "minVersion": "1.0.0"
 }
+
 
 
 
