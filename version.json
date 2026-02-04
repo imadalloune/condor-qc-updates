@@ -1,9 +1,9 @@
 {
-    "version": "1.1.4",
-    "versionCode": 14,
-    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.4/app-debug.apk",
-    "changelog": "✨ Version 1.1.4\n- Correction du problème de boucle de mise à jour\n- Ajout de l'option 'Ignorer cette version'\n- Mise à jour de sécurité et stabilité",
+    "version": "1.1.5",
+    "versionCode": 15,
+    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.5/app-debug.apk",
+    "changelog": "✨ Version 1.1.5\n- Ajout des filtres Machine à Laver (WM)\n- Mise à jour des articles de production (WM & AC)\n- Optimisation des exports Excel avec fonctions dynamiques",
     "mandatory": false,
-    "releaseDate": "2026-02-02",
+    "releaseDate": "2026-02-04",
     "minVersion": "1.0.0"
 }
