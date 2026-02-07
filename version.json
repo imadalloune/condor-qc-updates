@@ -1,9 +1,9 @@
 {
-    "version": "1.1.5",
-    "versionCode": 15,
-    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.5/app-debug.apk",
-    "changelog": "✨ Version 1.1.5\n- Ajout des filtres Machine à Laver (WM)\n- Mise à jour des articles de production (WM & AC)\n- Optimisation des exports Excel avec fonctions dynamiques",
+    "version": "1.1.6",
+    "versionCode": 16,
+    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.6/app-debug.apk",
+    "changelog": "✨ Version 1.1.6\n- Refonte visuelle de l'explorateur 3D AC\n- Amélioration de la lisibilité des sidebars et textes (UI agrandie)\n- Ajout d'une fonction de réinitialisation (RESTORE) de la vue 3D",
     "mandatory": false,
-    "releaseDate": "2026-02-04",
+    "releaseDate": "2026-02-07",
     "minVersion": "1.0.0"
 }
