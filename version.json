@@ -1,9 +1,9 @@
 {
-    "version": "1.1.7",
-    "versionCode": 17,
-    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.7/app-debug.apk",
-    "changelog": "✨ Version 1.1.7\n- Optimisation de l'explorateur 3D pour mobile et APK\n- Intégration du Compresseur Panasonic glossy\n- Design premium \"Space Gray\" et éclairage studio\n- Correction du bug de téléchargement à 100% sur mobile\n- Support complet du mode Hors-ligne (Offline)",
+    "version": "1.1.8",
+    "versionCode": 18,
+    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.8/app-debug.apk",
+    "changelog": "✨ Version 1.1.8\n- 📱 Interface mobile optimisée et responsive\n- 🔧 Correction des exports PPTX/Excel sur mobile\n- 📊 Cartes résumé en 2 colonnes sur téléphone\n- 🎯 Filtres organisés en lignes claires\n- 👆 Boutons tactiles plus grands et faciles à utiliser\n- 🔄 Indicateurs de chargement pour les exports\n- ✅ Messages d'erreur améliorés\n- 📜 Défilement horizontal pour les filtres",
     "mandatory": false,
-    "releaseDate": "2026-02-09",
+    "releaseDate": "2026-02-13",
     "minVersion": "1.0.0"
 }
