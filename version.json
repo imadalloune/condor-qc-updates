@@ -1,9 +1,9 @@
 {
-    "version": "1.1.9",
-    "versionCode": 19,
-    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.1.9/app-debug.apk",
-    "changelog": "✨ Version 1.1.9\n- 📊 Export Power BI (Data Unpivoted & Nettoyées)\n- 📱 Interface mobile optimisée et responsive\n- 🔧 Correction des exports PPTX/Excel sur mobile\n- 🎯 Filtres organisés en lignes claires\n- 👆 Boutons tactiles plus grands et faciles à utiliser\n- 🔄 Indicateurs de chargement pour les exports\n- ✅ Messages d'erreur améliorés",
+    "version": "1.2.0",
+    "versionCode": 20,
+    "downloadUrl": "https://github.com/imadalloune/condor-qc-updates/releases/download/v1.2.0/app-debug.apk",
+    "changelog": "✨ Version 1.2.0\n- � Compression intelligente des photos (Inspections plus fluides)\n- �️ Protection contre les erreurs de mémoire (Quota Storage)\n- � Correction du graphique 'Returns QTY' (Meilleur cadrage PPTX)\n- ❄️ Fix Classification 'Footing' (Séparation correcte AC/WM)\n- ✅ Limite technique de 4 photos par défaut pour optimiser l'appareil",
     "mandatory": false,
-    "releaseDate": "2026-02-13",
+    "releaseDate": "2026-02-20",
     "minVersion": "1.0.0"
 }
